@@ -3,11 +3,11 @@ layout: doc
 ---
 
 <script setup>
-  import {data as assignments} from './assignments/assignment.data.ts';
+  import {data as assignments} from './assignments/assignment.data';
   import { withBase } from 'vitepress';
 </script>
 
-# Blogs
+# assignments
 
 <ul v-if="assignments.length > 0">
   <li v-for="assignment of assignments">
