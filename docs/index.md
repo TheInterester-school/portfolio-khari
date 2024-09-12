@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Khari Payne"
+  text: "Cool Guy?"
+  tagline: "the world may never know..."
   actions:
     - theme: brand
       text: Template Repository
@@ -21,5 +21,6 @@ features:
   - title: Assignments
     details: All of your assignments will be posted on your portfolio.
   - title: About Me
+    link: /about.html
     details: You'll implement a small bio about yourself on here!
 ---
