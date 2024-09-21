@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Khari Payne"
-  text: "subtitle"
-  tagline: "A pretty chill guy!"
+  text: "Cool Guy?"
+  tagline: "the world may never know..."
   actions:
     - theme: brand
       text: Template Repository
@@ -22,5 +22,6 @@ features:
     details: All of your assignments will be posted on your portfolio.
     link: /assignments
   - title: About Me
+    link: /about.html
     details: You'll implement a small bio about yourself on here!
 ---
