@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Khari Payne"
+  text: "subtitle"
+  tagline: "A pretty chill guy!"
   actions:
     - theme: brand
       text: Template Repository
